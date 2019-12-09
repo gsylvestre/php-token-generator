@@ -1,0 +1,24 @@
+{
+    "name": "gsylvestre/php-token-generator",
+    "description": "Generate crypto-secure URL safe strings",
+    "keywords": ["token", "string", "generator", "crypto", "php"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume Sylvestre",
+            "email": "gsylvestre@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPTokenGenerator\\": "src/"
+        }
+    }
+}
