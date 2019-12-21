@@ -1,6 +1,6 @@
 ## PHP Token Generator
 
-Simple yet secure string generator for PHP7.
+Simple yet secure token generator for PHP7.
 
 - Crypto-secure
 - Strings can be used in URLs
