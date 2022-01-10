@@ -2,6 +2,8 @@
 
 Simple yet secure token generator for PHP7.
 
+[![CI](https://github.com/enigma972/php-token-generator/actions/workflows/php.yml/badge.svg)](https://github.com/enigma972/php-token-generator/actions/workflows/php.yml)
+
 - Crypto-secure
 - Strings can be used in URLs
 - Optionnaly remove similar characters (Il1 and 0oO)

@@ -20,5 +20,8 @@
         "psr-4": {
             "PHPTokenGenerator\\": "src/"
         }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
     }
 }
